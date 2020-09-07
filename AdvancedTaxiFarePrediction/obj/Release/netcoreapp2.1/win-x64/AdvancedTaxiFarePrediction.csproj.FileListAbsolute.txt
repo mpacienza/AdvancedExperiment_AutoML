@@ -1,0 +1,16 @@
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\Data\taxi-fare-test.csv
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\Data\taxi-fare-train.csv
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.exe
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.deps.json
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.runtimeconfig.json
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.runtimeconfig.dev.json
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.dll
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.pdb
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.csprojAssemblyReference.cache
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.csproj.CoreCompileInputs.cache
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.AssemblyInfoInputs.cache
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.AssemblyInfo.cs
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.dll
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\win-x64\AdvancedTaxiFarePrediction.pdb

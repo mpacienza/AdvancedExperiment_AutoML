@@ -1,0 +1,13 @@
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\Data\taxi-fare-test.csv
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\Data\taxi-fare-train.csv
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.deps.json
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.runtimeconfig.json
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.runtimeconfig.dev.json
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.dll
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\bin\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.pdb
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.csprojAssemblyReference.cache
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.csproj.CoreCompileInputs.cache
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.AssemblyInfoInputs.cache
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.AssemblyInfo.cs
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.dll
+C:\Users\VS\Desktop\ML Net\AdvancedExperiment_AutoML\AdvancedTaxiFarePrediction\obj\Release\netcoreapp2.1\AdvancedTaxiFarePrediction.pdb
